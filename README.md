@@ -12,6 +12,10 @@ Please refer to the [webpage portion](https://github.com/gyjin/hex-ights-react/b
 5. [5V AC/DC Power Supply](https://www.amazon.com/SoulBay-Universal-Multi-Voltage-Selectable-Electronics/dp/B01N2K48HR/)
 
 ### Assembly
+Below is a guide to assembling the hardware components.
+Note that this guide is for connecting 2 light strips but the same can be done with 1 by omitting the second. 
+
+![Hex-ight Assembly Image](https://github.com/gyjin/hex-ights-esp8266/blob/master/Hex-ights_Assembly_Image.png)
 
 ### Launch
 1. Download [Arduino IDE](https://www.arduino.cc/en/main/software)
@@ -34,4 +38,4 @@ Please refer to the [webpage portion](https://github.com/gyjin/hex-ights-react/b
 7. Upload codebase onto the board.
 8. Confirm in serial monitor that the board is successfully connected to WiFi and retrieving all 4 variables from Firebase.<br />
 
-Hex-ights is a capstone project developed at Ada Developers Academy in Seattle, WA by Ga-Young Jin. 
+Hex-ights is a capstone project developed at [Ada Developers Academy](https://adadevelopersacademy.org/) in Seattle, WA by Ga-Young Jin. 
