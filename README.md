@@ -43,6 +43,7 @@ The light strips can be housed inside any transparent structure of your choice -
 ### Demo
 Below is a demo of my final project, showcasing a run-through of all colors and patterns available in this repo. 
 
-![Demo Video 1/2](https://github.com/gyjin/hex-ights-esp8266/blob/master/IMG_0442%202.MOV)
+![Demo Video 1/2](https://drive.google.com/open?id=1o-CW0df6-ZeqmxR9R_LnTPGGdJbrvzHQ)
+
 
 Hex-ights is a capstone project developed at [Ada Developers Academy](https://adadevelopersacademy.org/) in Seattle, WA by Ga-Young Jin. 
