@@ -1,7 +1,8 @@
 ## Hex-ights
 
 Light up your life! Hex-ights are WiFi-controlled customizable led lights for all light enthusiasts. 
-Control the lights from any device that can access the webpage! This is the hardware portion of this project. 
+Control the lights from any device that can access the webpage! <br />
+This is the hardware portion of this project.
 Please refer to the [webpage portion](https://github.com/gyjin/hex-ights-react/blob/master/README.md) to set up the webpage. 
 
 ### Hardware Components
@@ -12,9 +13,9 @@ Please refer to the [webpage portion](https://github.com/gyjin/hex-ights-react/b
 5. [5V AC/DC Power Supply](https://www.amazon.com/SoulBay-Universal-Multi-Voltage-Selectable-Electronics/dp/B01N2K48HR/)
 
 ### Assembly
-Below is a guide to assembling the hardware components.
-Note that this guide is for connecting 2 light strips but the same can be done with 1 by omitting the second. 
-The light strips can be housed inside any transparent structure of your choice - for this project, the lights were housed inside of a hexagon structure made from transparent vinyl sheets and glue.
+Below is a guide to assembling the hardware components.<br />
+Note that this guide is for connecting 2 light strips but the same can be done for 1 light strip.<br />
+The light strips can be housed inside any transparent structure of your choice - for this project, the lights were housed inside of a hexagon structure made from transparent vinyl sheets and glue. (see demo below)
 
 ![Hex-ight Assembly Image](https://github.com/gyjin/hex-ights-esp8266/blob/master/Hex-ights_Assembly_Image.png)
 
@@ -41,7 +42,8 @@ The light strips can be housed inside any transparent structure of your choice -
 
 
 ### Demo
-Here is a [demo link](https://drive.google.com/open?id=1o-CW0df6-ZeqmxR9R_LnTPGGdJbrvzHQ) to my final project, showcasing a run-through of all colors and patterns available in this repo. 
+Here is a [demo link](https://drive.google.com/open?id=1o-CW0df6-ZeqmxR9R_LnTPGGdJbrvzHQ) to the final product, showcasing a run-through of all colors and patterns available in this repo. 
+<br />
 <br />
 
 Hex-ights is a capstone project developed at [Ada Developers Academy](https://adadevelopersacademy.org/) in Seattle, WA by Ga-Young Jin. 
