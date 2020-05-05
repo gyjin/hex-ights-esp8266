@@ -37,13 +37,11 @@ The light strips can be housed inside any transparent structure of your choice -
 5. Change WiFi configurations in code.
 6. Change Firebase configurations in code.
 7. Upload codebase onto the board.
-8. Confirm in serial monitor that the board is successfully connected to WiFi and retrieving all 4 variables from Firebase.<br />
+8. Confirm in serial monitor that the board is successfully connected to WiFi and retrieving all 4 variables from Firebase.
 
 
 ### Demo
-Below is a demo of my final project, showcasing a run-through of all colors and patterns available in this repo. 
-
-![Demo Video 1/2](https://drive.google.com/open?id=1o-CW0df6-ZeqmxR9R_LnTPGGdJbrvzHQ)
-
+Here is a [demo link](https://drive.google.com/open?id=1o-CW0df6-ZeqmxR9R_LnTPGGdJbrvzHQ) to my final project, showcasing a run-through of all colors and patterns available in this repo. 
+<br />
 
 Hex-ights is a capstone project developed at [Ada Developers Academy](https://adadevelopersacademy.org/) in Seattle, WA by Ga-Young Jin. 
