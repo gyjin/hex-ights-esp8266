@@ -14,6 +14,7 @@ Please refer to the [webpage portion](https://github.com/gyjin/hex-ights-react/b
 ### Assembly
 Below is a guide to assembling the hardware components.
 Note that this guide is for connecting 2 light strips but the same can be done with 1 by omitting the second. 
+The light strips can be housed inside any transparent structure of your choice - for this project, the lights were housed inside of a hexagon structure made from transparent vinyl sheets and glue.
 
 ![Hex-ight Assembly Image](https://github.com/gyjin/hex-ights-esp8266/blob/master/Hex-ights_Assembly_Image.png)
 
@@ -37,5 +38,11 @@ Note that this guide is for connecting 2 light strips but the same can be done w
 6. Change Firebase configurations in code.
 7. Upload codebase onto the board.
 8. Confirm in serial monitor that the board is successfully connected to WiFi and retrieving all 4 variables from Firebase.<br />
+
+
+### Demo
+Below is a demo of my final project, showcasing a run-through of all colors and patterns available in this repo. 
+
+
 
 Hex-ights is a capstone project developed at [Ada Developers Academy](https://adadevelopersacademy.org/) in Seattle, WA by Ga-Young Jin. 
